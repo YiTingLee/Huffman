@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\yiting\documents\visual studio 2015\projects\huffman\huffman\source.cpp(61): warning C4018: '<': signed/unsigned 不相符
+c:\users\yiting\documents\visual studio 2015\projects\huffman\huffman\source.cpp(177): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Huffman.vcxproj -> c:\users\yiting\documents\visual studio 2015\Projects\Huffman\Debug\Huffman.exe
+  Huffman.vcxproj -> c:\users\yiting\documents\visual studio 2015\Projects\Huffman\Debug\Huffman.pdb (Partial PDB)
